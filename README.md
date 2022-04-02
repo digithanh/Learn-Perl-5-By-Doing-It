@@ -2,10 +2,10 @@
 
 Scripts tirés de la formation :
 
-__Learn Perl 5 By Doing It __
+__Learn Perl 5 By Doing It__
 
 *Formateur*
-__John Purcell __
+__John Purcell__
 
 ---
 1. [__Download text and image__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto03/tutorial3.pl)
