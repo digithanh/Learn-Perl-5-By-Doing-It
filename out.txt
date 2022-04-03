@@ -1,0 +1,61 @@
+---
+title: Test
+...
+
+# Test !
+
+This is a test of *pandoc*.
+
+- list one
+- list two
+
+## Titre 2
+
+1. toto
+2. tata
+
+---
+[google](https://google.fr)
+---
+
+![alt text](https://imagine.bayard.io/unsafe/380x0/bayard-static/edition/couvertures/9791036335822/9791036335822.jpg)
+### Un tableau pas réussi
+|syntax|description|
+|---|---|
+|header|title|
+|paraph|text|
+##Bloc de code
+
+```
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+$hello = "Hello world"
+
+print "$hello\n";
+```
+
+### Une définition
+term 
+: definition
+
+~~The world is flat~~
+## Une liste
+- [x] write
+- [ ] update
+- [ ] contact
+
+That is so funny! :joy: 
+
+>citation de moi
+
+| Aligner à gauche | Centrer | Aligner à droite |
+| :--------------- | :-----: | ---------------: |
+| Pommes           |  Rouge  |             5000 |
+| Bananes          |  Jaune  |               75 |
+
+### Bout de code
+`perl 'print -e "toto"`
+
+
