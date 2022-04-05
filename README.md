@@ -13,3 +13,6 @@ __John Purcell__
 
 2. [__Verifier si fichier existe__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto04/main.pl)
 > Vérifier si les fichiers existent via une liste de fichier dans un tableau.
+
+2. [__Verifier contenu fichier__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto05/main.pl)
+> Vérifier si une chaine de caractère existe dans une ligne d'un fichier.
