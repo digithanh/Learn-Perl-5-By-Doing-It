@@ -27,8 +27,8 @@ __John Purcell__
 6. [__Lire fichier et trouver regex raccourci__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto08/main.pl)
 > A partir d'un fichier en entrée lire les lignes pour trouver une expression régulière de type raccourci \W et l'afficher.
 
-7. [__Lire fichier et trouver bloc regex__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto07/main.pl)
+7. [__Lire fichier et trouver bloc regex__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto09/main.pl)
 > A partir d'un fichier en entrée lire les lignes pour trouver une expression régulière groupée () et l'afficher.
 
-8. [__Lire fichier et trouver regex raccourci 2__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto07/main.pl)
+8. [__Lire fichier et trouver regex raccourci 2__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto10/main.pl)
 > A partir d'un fichier en entrée lire les lignes pour trouver une expression régulière groupée () de type raccourci \s \S représentant un espacement et un non-espacement.
