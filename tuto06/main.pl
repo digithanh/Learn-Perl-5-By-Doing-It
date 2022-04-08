@@ -12,8 +12,7 @@ sub main {
 	open(my $out, '>', $output) or die "Can't create $output.\n";
 	
 	while(my $line = <$in>) {
-		
-		
+				
 		if($line =~ /livres/) {
 			$line =~ s/JE/je/ig;
 			print $out $line;
