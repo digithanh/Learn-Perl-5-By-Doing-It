@@ -32,3 +32,6 @@ __John Purcell__
 
 8. [__Lire fichier et trouver regex raccourci 2__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto10/main.pl)
 > A partir d'un fichier en entrée lire les lignes pour trouver une expression régulière groupée () de type raccourci \s \S représentant un espacement et un non-espacement.
+
+9. [__Quantificateur regex__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto11/main.pl)
+> Trouver une expression régulière sur la base de 5 digit \d{5}.
