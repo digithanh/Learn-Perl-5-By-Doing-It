@@ -41,7 +41,7 @@ __John Purcell__
 > Script mailcheck pour vérifier la conformité d'une adresse mail.
 > Script regex qui retrouve dans une chaine de caractère une série de mots. 
 
-11. [__Fonction, regex mail, regex standard__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto13/main.pl)
+11. [__Lecture fichier boucle ligne et split dans tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto13/main.pl)
 > Script helloworld avec une fonction main standard.
 > Lecture d'un fichier.
 > Boucle while sur les lignes.
