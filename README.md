@@ -37,12 +37,12 @@ __John Purcell__
 > Trouver une expression régulière sur la base de 5 digit \d{5}.
 
 10. [__Fonction, regex mail, regex standard__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto12/)
-> Script helloworld avec une fonction main standard.
-> Script mailcheck pour vérifier la conformité d'une adresse mail.
-> Script regex qui retrouve dans une chaine de caractère une série de mots. 
+> Script helloworld avec une fonction main standard.<br>
+> Script mailcheck pour vérifier la conformité d'une adresse mail.<br>
+> Script regex qui retrouve dans une chaine de caractère une série de mots. <br>
 
 11. [__Lecture fichier boucle ligne et split dans tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto13/main.pl)
 > Script helloworld avec une fonction main standard.
-> Lecture d'un fichier.
-> Boucle while sur les lignes.
-> Utilisation de la fonction split sur chaque ligne pour mettre celle dans un tableau (array). 
+> Lecture d'un fichier.<br>
+> Boucle while sur les lignes.<br>
+> Utilisation de la fonction split sur chaque ligne pour mettre celle dans un tableau (array). <br>
