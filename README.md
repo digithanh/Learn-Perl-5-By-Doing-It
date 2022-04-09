@@ -40,3 +40,9 @@ __John Purcell__
 > Script helloworld avec une fonction main standard.
 > Script mailcheck pour vérifier la conformité d'une adresse mail.
 > Script regex qui retrouve dans une chaine de caractère une série de mots. 
+
+11. [__Fonction, regex mail, regex standard__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto13/main.pl)
+> Script helloworld avec une fonction main standard.
+> Lecture d'un fichier.
+> Boucle while sur les lignes.
+> Utilisation de la fonction split sur chaque ligne pour mettre celle dans un tableau (array). 
