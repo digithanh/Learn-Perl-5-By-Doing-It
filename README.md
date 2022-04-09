@@ -36,7 +36,7 @@ __John Purcell__
 9. [__Quantificateur regex__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto11/main.pl)
 > Trouver une expression régulière sur la base de 5 digit \d{5}.
 
-10. [__Fonction, regex mail, regex standard__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto12/main.pl)
+10. [__Fonction, regex mail, regex standard__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto12/)
 > Script helloworld avec une fonction main standard.
 > Script mailcheck pour vérifier la conformité d'une adresse mail.
 > Script regex qui retrouve dans une chaine de caractère une série de mots. 
