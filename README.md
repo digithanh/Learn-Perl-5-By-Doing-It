@@ -42,7 +42,11 @@ __John Purcell__
 > Script regex qui retrouve dans une chaine de caractère une série de mots. <br>
 
 11. [__Lecture fichier boucle ligne et split dans tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto13/main.pl)
-> Script helloworld avec une fonction main standard.
 > Lecture d'un fichier.<br>
 > Boucle while sur les lignes.<br>
 > Utilisation de la fonction split sur chaque ligne pour mettre celle dans un tableau (array). <br>
+
+11. [__Join et voir les données avec Data::Dumper__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto14/main.pl)
+> Sur la base du tuto 13 pour visualiser les données du tableau @values.<br>
+> Utiliser la fonction join dans un premier temps puis commenter celle ci.<br>
+> Utiliser le package Data::Dumper pour visualiser les données du tableau @values. <br>
