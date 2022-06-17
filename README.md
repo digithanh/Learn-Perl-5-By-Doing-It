@@ -50,3 +50,8 @@ __John Purcell__
 > Sur la base du tuto 13 pour visualiser les données du tableau @values.<br>
 > Utiliser la fonction join dans un premier temps puis commenter celle ci.<br>
 > Utiliser le package Data::Dumper pour visualiser les données du tableau @values. <br>
+
+11. [__Chomp et suppression des espaces dans Splits__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto15/main.pl)
+> Sur la base du tuto 14 pour supprimer le retour à la ligne de la dernière valeur.<br>
+> Utiliser la fonction Chomp sur la variable $line.<br>
+> Pour les espaces entre les valeurs séparées par la virgule pour les stocker proprement dans le tableau. exemple : Rene Descartes ,0.57 , 10072033 <br>
