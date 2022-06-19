@@ -46,12 +46,17 @@ __John Purcell__
 > Boucle while sur les lignes.<br>
 > Utilisation de la fonction split sur chaque ligne pour mettre celle dans un tableau (array). <br>
 
-11. [__Join et voir les données avec Data::Dumper__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto14/main.pl)
+12. [__Join et voir les données avec Data::Dumper__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto14/main.pl)
 > Sur la base du tuto 13 pour visualiser les données du tableau @values.<br>
 > Utiliser la fonction join dans un premier temps puis commenter celle ci.<br>
 > Utiliser le package Data::Dumper pour visualiser les données du tableau @values. <br>
 
-11. [__Chomp et suppression des espaces dans Splits__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto15/main.pl)
+13. [__Chomp et suppression des espaces dans Splits__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto15/main.pl)
 > Sur la base du tuto 14 pour supprimer le retour à la ligne de la dernière valeur.<br>
 > Utiliser la fonction Chomp sur la variable $line.<br>
 > Pour les espaces entre les valeurs séparées par la virgule pour les stocker proprement dans le tableau. exemple : Rene Descartes ,0.57 , 10072033 <br>
+
+14. [__Push dans un tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto16/main.pl)
+> Sur la base du tuto 15 pour ajouter chaque ligne dans un tableau.<br>
+> Dans un premier temps utiliser la méthode classique avec un compteur.<br>
+> Puis utilisation de la fonction push pour ajouter chaque ligne dans un tableau <br>
