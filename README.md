@@ -60,3 +60,8 @@ __John Purcell__
 > Sur la base du tuto 15 pour ajouter chaque ligne dans un tableau.<br>
 > Dans un premier temps utiliser la méthode classique avec un compteur.<br>
 > Puis utilisation de la fonction push pour ajouter chaque ligne dans un tableau <br>
+
+15. [__Tableau de tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto17/main.pl)
+> Sur la base du tuto 16 pour ajouter chaque ligne en tant que tableau dans un tableau.<br>
+> Création d'un fichier test.pl pour revoir le tableau à deux dimension avec la notion de référence.<br>
+> Dans le fichier main ajouter le tableau de ligne dans un tableau. <br>
