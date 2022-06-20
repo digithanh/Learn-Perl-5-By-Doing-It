@@ -66,7 +66,7 @@ __John Purcell__
 > Création d'un fichier test.pl pour revoir le tableau à deux dimension avec la notion de référence.<br>
 > Dans le fichier main ajouter le tableau de ligne dans un tableau. <br>
 
-15. [__Table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto18/)
+15. [__Table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto18/main.pl)
 > Définition d'une table de hash. <br>
 > Boucle sur la table de hash. <br>
 > L'ordre dans une table de hash n'est pas retenu.<br>
