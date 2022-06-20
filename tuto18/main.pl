@@ -24,14 +24,14 @@ sub main {
   );
 
   print $days{1} . "\n";
-
+  #Récupérer la valeur des clés
   my @months = keys %months;
-
+  #Boucler sur le tableau @months et alimenter la table de hash avec le contenu de celui ci.
   foreach my $month(@months) {
     my $value = $months{$month};
     print "$month: $value\n";
   }
- 
+  #Utiliser la boucle while en créant deux variables pour la clé et valeur de la table de hash.
   while (my ($key,$value) = each %days) {
     print "$key: $value\n";
   }
