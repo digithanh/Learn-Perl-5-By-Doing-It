@@ -59,9 +59,14 @@ __John Purcell__
 14. [__Push dans un tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto16/main.pl)
 > Sur la base du tuto 15 pour ajouter chaque ligne dans un tableau.<br>
 > Dans un premier temps utiliser la méthode classique avec un compteur.<br>
-> Puis utilisation de la fonction push pour ajouter chaque ligne dans un tableau <br>
+> Puis utilisation de la fonction push pour ajouter chaque ligne dans un tableau.<br>
 
 15. [__Tableau de tableau__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto17/)
 > Sur la base du tuto 16 pour ajouter chaque ligne en tant que tableau dans un tableau.<br>
 > Création d'un fichier test.pl pour revoir le tableau à deux dimension avec la notion de référence.<br>
 > Dans le fichier main ajouter le tableau de ligne dans un tableau. <br>
+
+15. [__Table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto18/)
+> Définition d'une table de hash. <br>
+> Boucle sur la table de hash. <br>
+> L'ordre dans une table de hash n'est pas retenu.<br>
