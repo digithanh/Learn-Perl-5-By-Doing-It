@@ -71,6 +71,9 @@ __John Purcell__
 > Boucle sur la table de hash. <br>
 > L'ordre dans une table de hash n'est pas retenu.<br>
 
-16. [__Iération sur une table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto19/main.pl)
+17. [__Itération sur une table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto19/main.pl)
 > Boucle sur la table de hash. <br>
 > L'ordre dans une table de hash n'est pas retenu.<br>
+
+18. [__Tableau de table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto20/main.pl)
+> Ajouter un hash dans un array avec push. <br>
