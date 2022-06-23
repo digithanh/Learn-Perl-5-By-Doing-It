@@ -77,3 +77,8 @@ __John Purcell__
 
 18. [__Tableau de table de Hash__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto20/main.pl)
 > Ajouter un hash dans un array avec push. <br>
+
+19. [__Stocker les données d'un CSV dans une structure de donnée__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto21/main.pl)
+> Spliter chaque ligne du tableau dans des variables distincts. <br>
+> Nommer les clés du hash avec le nom des colonnes. <br>
+> Déférencer dans une boucle pour afficher le contenu d'une colonne. <br>
