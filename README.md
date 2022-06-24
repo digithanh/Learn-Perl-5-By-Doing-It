@@ -82,3 +82,9 @@ __John Purcell__
 > Spliter chaque ligne du tableau dans des variables distincts. <br>
 > Nommer les clés du hash avec le nom des colonnes. <br>
 > Déférencer dans une boucle pour afficher le contenu d'une colonne. <br>
+
+20. [__Valider les données du CSV__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto21/main.pl)
+> Si une ligne du CSV est vide ne pas la prendre en compte et la générer une alerte. <br>
+> Si un champ est manquant sur une ligne alors passer au traitement suivant. <br>
+> Si un champ est vide sur une ligne passer à l'itération suivante. <br>
+> Définir une référence pour la fonction next pour pointer sur la boucle principale.<br>
