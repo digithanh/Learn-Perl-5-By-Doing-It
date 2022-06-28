@@ -94,3 +94,6 @@ __John Purcell__
 > Ligne 65 utilisation des simples quote VS double quote.<br>
 > Suppression des espaces en fin de ligne avec le regex s/\s*$// <br>
 > Suppression des expressions régulières particulières comme les points d'interrogations, le mot approx. et le signe $.<br>
+
+20. [__Révision REGEX__](https://github.com/digithanh/Learn-Perl-5-By-Doing-It/blob/main/tuto24)
+> Sans commentaires.<br>
